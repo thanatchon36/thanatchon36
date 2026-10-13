@@ -4,6 +4,13 @@ Senior Data Scientist at the **Bank of Thailand**, where I build production gene
 
 Off the clock I build small, focused open-source tools for people who work with LLMs, coding agents and CI.
 
+#### 🏛️ AI governance & financial-risk research
+
+| Project | What it does |
+|---|---|
+| [**airmkit**](https://github.com/thanatchon36/airmkit) | Put the MAS Guidelines on AI Risk Management into practice for LLM and agentic AI systems: clause catalogue, AI inventory, risk-materiality rubric, controls and an audit pack. Comes with a [paper](https://thanatchon36.github.io/airmkit/paper/). Independent project, not affiliated with MAS. |
+| [**fraud-synth-bench**](https://github.com/thanatchon36/fraud-synth-bench) | Reproducible fraud-analytics research on synthetic data: classic vs. modern models under imbalance, drift, label delay and graph fraud. Comes with a [paper](https://github.com/thanatchon36/fraud-synth-bench/blob/main/paper/paper.pdf). |
+
 #### 🤖 LLM & agent tooling
 
 | Project | What it does |
@@ -20,11 +27,10 @@ Off the clock I build small, focused open-source tools for people who work with 
 | [**verdrift**](https://github.com/thanatchon36/verdrift) | Find every place your repo pins a Node, Python or Go version, and see where they disagree. |
 | [**layerdelta**](https://github.com/thanatchon36/layerdelta) | See why your container image got bigger: compare two images file by file, with a CI size budget. |
 
-#### 📊 Data science & experiments
+#### 📊 Experiments
 
 | Project | What it does |
 |---|---|
-| [**fraud-synth-bench**](https://github.com/thanatchon36/fraud-synth-bench) | Reproducible fraud-analytics research on synthetic data: classic vs. modern models under imbalance, drift, label delay and graph fraud. |
 | [**gemini-candlestick**](https://github.com/thanatchon36/gemini-candlestick) | An AI-simulated board meeting of 10 legendary market technicians debating daily S&P 500 charts (Gemini + TA-Lib). |
 
 #### 🧰 Stack
