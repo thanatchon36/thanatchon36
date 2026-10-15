@@ -15,6 +15,7 @@ Off the clock I build small, focused open-source tools for people who work with 
 
 | Project | What it does |
 |---|---|
+| [**rulewarden**](https://github.com/thanatchon36/rulewarden) | Enforce the rules in `CLAUDE.md` / `AGENTS.md` on every change a coding agent makes, deterministically, in a pre-tool hook, a git hook and CI. Comes with a [paper](https://thanatchon36.github.io/rulewarden/paper/). |
 | [**upfront**](https://github.com/thanatchon36/upfront) | See how many tokens your MCP servers, skills and `AGENTS.md` cost a coding agent up front, and which tools break in which client. |
 | [**tracecost**](https://github.com/thanatchon36/tracecost) | Recompute what your LLM traces cost, offline, from OTLP, Langfuse or Phoenix exports, with cache and reasoning tokens priced. |
 | [**skills**](https://github.com/thanatchon36/skills) | Agent skills that take an open-source project from a one-page `MISSION.md` to a shipped public repo. |
