@@ -9,7 +9,7 @@ Off the clock I build small, focused open-source tools for people who work with 
 | Project | What it does |
 |---|---|
 | [**airmkit**](https://github.com/thanatchon36/airmkit) | Put the MAS Guidelines on AI Risk Management into practice for LLM and agentic AI systems: clause catalogue, AI inventory, risk-materiality rubric, controls and an audit pack. Comes with a [paper](https://thanatchon36.github.io/airmkit/paper/). Independent project, not affiliated with MAS. |
-| [**fraud-synth-bench**](https://github.com/thanatchon36/fraud-synth-bench) | Reproducible fraud-analytics research on synthetic data: classic vs. modern models under imbalance, drift, label delay and graph fraud. Comes with a [paper](https://github.com/thanatchon36/fraud-synth-bench/blob/main/paper/paper.pdf). |
+| [**fraud-synth-bench**](https://github.com/thanatchon36/fraud-synth-bench) | Reproducible fraud-analytics research on synthetic data: classic vs. modern models under imbalance, drift, label delay and graph fraud. Comes with a [paper](https://thanatchon36.github.io/fraud-synth-bench/paper/). |
 
 #### 🤖 LLM & agent tooling
 
