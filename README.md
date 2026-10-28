@@ -22,13 +22,6 @@ Off the clock I write pre-registered, reproducible research papers on central ba
 | [**harnesswatch**](https://github.com/thanatchon36/harnesswatch) | *The Harness Is the Attack Surface: A Security Analysis of AI Coding-Agent Harnesses (2025–2026)* | [Web](https://thanatchon36.github.io/harnesswatch/paper/) · [PDF](https://github.com/thanatchon36/harnesswatch/raw/main/paper/main.pdf) · [DOI](https://doi.org/10.5281/zenodo.23407630) |
 | [**rulewarden**](https://github.com/thanatchon36/rulewarden) | *rulewarden: Deterministic Runtime Assurance for AI Coding Agents* | [Web](https://thanatchon36.github.io/rulewarden/paper/) · [PDF](https://github.com/thanatchon36/rulewarden/raw/main/paper/paper.pdf) · [DOI](https://doi.org/10.5281/zenodo.23368991) |
 
-**🚧 In progress**
-
-| Project | Study |
-|---|---|
-| [**regslm**](https://github.com/thanatchon36/regslm) | *How Small Can a Regulatory-Obligation Extractor Be?* Small on-premises language models that turn public financial rulebooks into structured obligations: scaling, distillation, verifiable-reward RL and quantization. |
-| [**pmbook**](https://github.com/thanatchon36/pmbook) | Fee design and market quality in prediction markets: a pre-registered study of a staggered taker-fee rollout, rebuilt from public Polygon chain data alone. |
-
 #### 🤖 LLM & agent tooling
 
 | Project | What it does |
