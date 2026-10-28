@@ -10,6 +10,7 @@ Off the clock I write pre-registered, reproducible research papers on central ba
 
 | Project | Paper | Read |
 |---|---|---|
+| [**cpilens**](https://github.com/thanatchon36/cpilens) | *How Much Does Product Classification Cost in Basis Points? Multilingual Classification of Thai Product Text for Consumer Price Measurement* | [Web](https://thanatchon36.github.io/cpilens/paper/) · [PDF](https://github.com/thanatchon36/cpilens/raw/main/paper/main.pdf) · [DOI](https://doi.org/10.5281/zenodo.23686886) |
 | [**cbtone**](https://github.com/thanatchon36/cbtone) | *Do Local-LLM Tone Scores of Central-Bank Communication Carry Policy Signal? Pre-registered Evidence from Seven Central Banks in Three Languages* | [Web](https://thanatchon36.github.io/cbtone/paper/) · [PDF](https://github.com/thanatchon36/cbtone/raw/main/paper/paper.pdf) · [DOI](https://doi.org/10.5281/zenodo.23371641) |
 | [**fraud-synth-bench**](https://github.com/thanatchon36/fraud-synth-bench) | *Classic and Modern Fraud Detectors under Controlled Imbalance, Drift, Ring Fraud and Label Delay: A Reproducible Study on Synthetic Data* | [Web](https://thanatchon36.github.io/fraud-synth-bench/paper/) · [PDF](https://github.com/thanatchon36/fraud-synth-bench/raw/main/paper/paper.pdf) · [DOI](https://doi.org/10.5281/zenodo.23343483) |
 
