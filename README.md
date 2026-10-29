@@ -24,6 +24,12 @@ Off the clock I write pre-registered, reproducible research papers on central ba
 | [**harnesswatch**](https://github.com/thanatchon36/harnesswatch) | *The Harness Is the Attack Surface: A Security Analysis of AI Coding-Agent Harnesses (2025–2026)* | [Web](https://thanatchon36.github.io/harnesswatch/paper/) · [PDF](https://github.com/thanatchon36/harnesswatch/raw/main/paper/main.pdf) · [DOI](https://doi.org/10.5281/zenodo.23407630) |
 | [**rulewarden**](https://github.com/thanatchon36/rulewarden) | *rulewarden: Deterministic Runtime Assurance for AI Coding Agents* | [Web](https://thanatchon36.github.io/rulewarden/paper/) · [PDF](https://github.com/thanatchon36/rulewarden/raw/main/paper/paper.pdf) · [DOI](https://doi.org/10.5281/zenodo.23368991) |
 
+**🔬 AI hardware & compute trends**
+
+| Project | Paper | Read |
+|---|---|---|
+| [**chipledger**](https://github.com/thanatchon36/chipledger) | *Is Huang's Law Moore's Law? Decomposing a Decade of AI Accelerator Performance Growth, 2012–2026*. A pre-registered split of vendor-published peaks for 79 accelerators from 14 vendors into density, die area, clock, specialization and precision; open dataset with per-value provenance. | [Web](https://thanatchon36.github.io/chipledger/paper/) · [PDF](https://github.com/thanatchon36/chipledger/raw/main/paper/chipledger.pdf) · [DOI](https://doi.org/10.5281/zenodo.23763729) |
+
 #### 🤖 LLM & agent tooling
 
 | Project | What it does |
