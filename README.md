@@ -10,6 +10,7 @@ Off the clock I write pre-registered, reproducible research papers on central ba
 
 | Project | Paper | Read |
 |---|---|---|
+| [**thainowcast**](https://github.com/thanatchon36/thainowcast) | *ThaiNowcast: Pseudo-Real-Time Nowcasting of Thai GDP and Inflation with Official and Alternative Data*. A working draft and open pipeline racing bridge, MIDAS, dynamic factor, elastic net and gradient-boosting models on official indicators and five alternative-data families; forecast results so far come from synthetic test data and validate the pipeline, not the Thai economy; dataset on Hugging Face. | [PDF](https://github.com/thanatchon36/thainowcast/raw/main/paper/paper.pdf) · [DOI](https://doi.org/10.5281/zenodo.23995547) |
 | [**underwater-collateral**](https://github.com/thanatchon36/underwater-collateral) | *Underwater Collateral: Flood Risk in Official Land Values, Credit under Relief and Bank Capital*. A working draft with a public-data pilot on how flood risk reaches bank capital in Thailand, from flood maps through official land values to a reverse stress test; RQ1 pre-registration pending, open data on Hugging Face. | [Web](https://thanatchon36.github.io/underwater-collateral/paper/) · [PDF](https://github.com/thanatchon36/underwater-collateral/raw/main/paper/paper.pdf) · [DOI](https://doi.org/10.5281/zenodo.23949061) |
 | [**llm-home-bias**](https://github.com/thanatchon36/llm-home-bias) | *Do Open-Source LLMs Have a Home Bias? Investment Advice from Chinese, American, European and Thai Models*. A pre-registered factorial experiment asking 12 local open-weight models to split an equity portfolio across eight markets; public dataset of replies on Hugging Face. | [Web](https://thanatchon36.github.io/llm-home-bias/) · [PDF](https://github.com/thanatchon36/llm-home-bias/raw/main/paper/paper.pdf) · [DOI](https://doi.org/10.5281/zenodo.23861180) |
 | [**stablecoin-tbills-genius-act**](https://github.com/thanatchon36/stablecoin-tbills-genius-act) | *Stablecoin Flows and Treasury-Bill Yields after the GENIUS Act: A Pre-Registered Replication-in-Spirit*. Local projections on 11 fiat-backed USD stablecoins, extending Ahmed & Aldasoro (2025, BIS WP 1270) 15 months past enactment; open data on Hugging Face. | [Web](https://thanatchon36.github.io/stablecoin-tbills-genius-act/) · [PDF](https://github.com/thanatchon36/stablecoin-tbills-genius-act/raw/main/paper/paper.pdf) · [DOI](https://doi.org/10.5281/zenodo.23836447) |
@@ -32,6 +33,12 @@ Off the clock I write pre-registered, reproducible research papers on central ba
 | Project | Paper | Read |
 |---|---|---|
 | [**chipledger**](https://github.com/thanatchon36/chipledger) | *Is Huang's Law Moore's Law? Decomposing a Decade of AI Accelerator Performance Growth, 2012–2026*. A pre-registered split of vendor-published peaks for 79 accelerators from 14 vendors into density, die area, clock, specialization and precision; open dataset with per-value provenance. | [Web](https://thanatchon36.github.io/chipledger/paper/) · [PDF](https://github.com/thanatchon36/chipledger/raw/main/paper/chipledger.pdf) · [DOI](https://doi.org/10.5281/zenodo.23763729) |
+
+**⚛️ Quantum computing**
+
+| Project | Paper | Read |
+|---|---|---|
+| [**bp-from-scratch**](https://github.com/thanatchon36/bp-from-scratch) | *Barren Plateaus from Scratch: A NumPy State-Vector Study of Trainability in Variational Quantum Circuits*. A roughly 500-line NumPy simulator with exact adjoint gradients, checked against PennyLane, that reproduces and extends the barren-plateau literature on 2–16 qubits; cached results on Hugging Face. | [Web](https://thanatchon36.github.io/bp-from-scratch/paper/) · [PDF](https://github.com/thanatchon36/bp-from-scratch/raw/main/paper/paper.pdf) · [DOI](https://doi.org/10.5281/zenodo.23995487) |
 
 #### 🤖 LLM & agent tooling
 
